@@ -10,7 +10,7 @@ from PIL import ImageTk, Image
 import tweepy 
 
 city_name = "   Alafaya,US "
-api_key = "e4865b92833d06f9d73d64cfc1eba5e5"
+api_key = "xxx"
 icon = "aa89cd043b72209dd43c108c1d66afff.png"
 choice = ""
 
