@@ -1,7 +1,4 @@
-# Omari Hopkins
-# COP2500C
-# Final Assignment
-# 11/23/2021
+
 
 import requests 
 from tkinter import *
